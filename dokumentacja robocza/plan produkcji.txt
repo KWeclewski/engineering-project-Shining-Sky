@@ -1,0 +1,5 @@
+1)system sterowania na placeholderach
+2)utworzenie postaci w makehuman'ie
+3)napisanie pierwszego aktu
+4)utworzenie animacji dla postaci
+5)utworzenie pierwszej sceny

@@ -1,0 +1,27 @@
+Dialog	Przedmiot	Nagranie	ZmianaWartosci	KontynuowacDialog	ActivationLine	DecyzjaCzyTekst	IndeksWyboru
+Ja przejrzę rzeczy, które zabraliśmy ze sobą, a ty Miszmosz może na tą chwilę rozejrzyj się po obozowisku.	ID0	1	*	N	*	T	*
+To ulubione krzesło Ojca, zawsze zabierał je ze sobą na ryby i chyba nigdy go nie prał.	ID1	2	2	T	*	T	*
+Zawsze zabierał je ze sobą na ryby... Co ja bym dał za to by móc, jeszcze choć raz spędzić z Nim dzień na rybach…	ID1	1	3	T	*	T	*
+Teraz z powodu choroby… Czemu mnie to spotyka… Czemu spotkało to moją mamę…	ID1	1	1	N	*	T	*
+Prezent dla taty od mamy… Zawsze wlewał do bukłaku whiskey gdy wybierał się na ryby. Dobrze, że nie domyślił się, że podbierałem mu odrobinę.	ID2	1	5	T	*	T	*
+Teraz znajduje się w nim jedynie woda, a tego mamy pod dostatkiem, aż tak mnie nie ciągnie żeby zgarnąć ochrzan.	ID2	2	4	N	*	T	*
+Prezent od Ojca… Z okazji 16 urodzin… No cóż… Mógł się odrobinę bardziej wysilić i pogłówkować.	ID10	2	*	N	*	T	*
+Może tym razem Ojciec pozwoli mi narąbać drewna na ognisko… Koniec końców to nasz ostatni wspólny biwak… Już niedługo mnie tu nie będzie…	ID11	1	8	T	*	T	*
+Czemu akurat mnie to spotkało, czemu musiałem zachorować tak poważnie… Mam jedynie nadzieję, że nie będę cierpiał tak jak mama…	ID11	1	7	N	*	T	*
+Widzę, że chyba nici z rąbania przeze mnie drewna…	ID12	1	*	N	0	T	*
+Ciekawe czy mamy jeszcze jakieś weki zrobione przez mamę, na pewno by… Na pewno poprawiłoby mi to humor, zważywszy na okoliczności…	ID13	1	*	N	*	T	*
+Znalazłem weki zrobione przez mamę przed śmiercią… Może uda się je ugotować?	ID14	1	*	N	1	T	*
+Świetnie teraz możemy przygotować jedzenie zrobione przez mamę, zanim nas opuściła!	ID14	1	13	T	*	T	*
+To teraz zostaje zastanowić się nad tym jak rozpalić ognisko…	ID13	1	*	N	*	D	0
+Poszukajmy zatem drewna!	ID13	1	*	N	3	T	*
+Oleje temat, nie chce mi się nic robić, niech stary się tym lepiej zajmie, będę miał go z głowy.	ID13	1	*	N	2	T	*
+Jak poszło przeglądanie obozowiska? Poprzypominało Ci się trochę jak bywaliśmy tutaj wcześniej? 	ID0	1	17	T	*	T	*
+Zaraz sam poszukam trochę drewna na ognisko leniu Miszmoszu i zajmiemy się kolacją!	ID0	1	*	N	*	T	*
+Okej, znaleźliśmy pierwszy pieniek na ognisko, szukamy dalej!	ID15	1	*	N	6	T	*
+Świetnie! Drugi za nami, jeszcze ze dwa i możemy być spokojni o ognisko!	ID17	1	*	N	9	T	*
+Jeszcze tylko jeden pieniek i będzie po sprawie…	ID19	1	*	N	12	T	*
+Ostatni! I po sprawie, chyba czas pogadać z tatą… Może uda mi się go przekonać do otworzenia naszej pamiątki… Ostatnich weków po mamusi…	ID21	1	*	N	15	T	*
+Spróbujmy rozpalić ognisko, marna zapalniczka, ale może pamiątka Zippo w końcu na coś mi się przyda.	ID10	1	6	N	21	T	*
+Potrzebuję najpierw zapalniczki…	ID24	1	*	N	17	T	*
+UDAŁO SIĘ! Samemu ciężko mi w to uwierzyć!	ID24	1	*	N	20	T	*
+Zatem spróbujmy… Nadzieja matką głupich, ale zdecydowanie nie moja.	ID24	1	24	T	*	T	*

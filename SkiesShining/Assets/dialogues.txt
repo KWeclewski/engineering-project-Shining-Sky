@@ -1,0 +1,38 @@
+Dialog	Przedmiot	Nagranie	ZmianaWartosci	KontynuowacDialog	ActivationLine	DecyzjaCzyTekst	IndeksWyboru
+Ja przejrzę rzeczy, które zabraliśmy ze sobą, a ty Miszmosz może na tą chwilę rozejrzyj się po obozowisku.	ID0	dia01	*	N	*	T	*
+To ulubione krzesło Ojca, zawsze zabierał je ze sobą na ryby i chyba nigdy go nie prał.	ID1	dia02	2	T	*	T	*
+Zawsze zabierał je ze sobą na ryby... Co ja bym dał za to by móc, jeszcze choć raz spędzić z Nim dzień na rybach…	ID1	dia03	3	T	*	T	*
+Teraz z powodu choroby… Czemu mnie to spotyka… Czemu spotkało to moją mamę…	ID1	dia04	1	N	*	T	*
+Prezent dla taty od mamy… Zawsze wlewał do bukłaku whiskey gdy wybierał się na ryby. Dobrze, że nie domyślił się, że podbierałem mu odrobinę.	ID2	dia05	5	T	*	T	*
+Teraz znajduje się w nim jedynie woda, a tego mamy pod dostatkiem, aż tak mnie nie ciągnie żeby zgarnąć ochrzan.	ID2	dia06	4	N	*	T	*
+Prezent od Ojca… Z okazji 16 urodzin… No cóż… Mógł się odrobinę bardziej wysilić i pogłówkować.	ID10	dia07	*	N	*	T	*
+Może tym razem Ojciec pozwoli mi narąbać drewna na ognisko… Koniec końców to nasz ostatni wspólny biwak… Już niedługo mnie tu nie będzie…	ID11	dia08	8	T	*	T	*
+Czemu akurat mnie to spotkało, czemu musiałem zachorować tak poważnie… Mam jedynie nadzieję, że nie będę cierpiał tak jak mama…	ID11	dia09	7	N	*	T	*
+Widzę, że chyba nici z rąbania przeze mnie drewna…	ID12	dia10	*	N	0	T	*
+Ciekawe czy mamy jeszcze jakieś weki zrobione przez mamę, na pewno by… Na pewno poprawiłoby mi to humor, zważywszy na okoliczności…	ID13	dia11	*	N	*	T	*
+Znalazłem weki zrobione przez mamę przed śmiercią… Może uda się je ugotować?	ID14	dia12	*	N	1	T	*
+Świetnie teraz możemy przygotować jedzenie zrobione przez mamę, zanim nas opuściła!	ID14	dia13	13	T	*	T	*
+To teraz zostaje zastanowić się nad tym jak rozpalić ognisko…	ID13	dia14	*	N	*	D	0
+Poszukajmy zatem drewna!	ID13	dia15	*	N	3	T	*
+Oleje temat, nie chce mi się nic robić, niech stary się tym lepiej zajmie, będę miał go z głowy.	ID13	dia16	*	N	2	T	*
+Jak poszło przeglądanie obozowiska? Poprzypominało Ci się trochę jak bywaliśmy tutaj wcześniej? 	ID0	dia17	17	T	*	T	*
+Zaraz sam poszukam trochę drewna na ognisko leniu Miszmoszu i zajmiemy się kolacją!.	ID0	dia18	33	T	*	T	*
+Okej, znaleźliśmy pierwszy pieniek na ognisko, szukamy dalej!	ID15	dia19	*	N	6	T	*
+Świetnie! Drugi za nami, jeszcze ze dwa i możemy być spokojni o ognisko!	ID17	dia20	*	N	9	T	*
+Jeszcze tylko jeden pieniek i będzie po sprawie…	ID19	dia21	*	N	12	T	*
+Ostatni! I po sprawie, chyba czas pogadać z tatą… Może uda mi się go przekonać do otworzenia naszej pamiątki… Ostatnich weków po mamusi…	ID21	dia22	*	N	15	T	*
+Spróbujmy rozpalić ognisko, marna zapalniczka, ale może pamiątka Zippo w końcu na coś mi się przyda.	ID10	dia23	6	N	21	T	*
+Potrzebuję najpierw zapalniczki…	ID24	dia24	*	N	17	T	*
+UDAŁO SIĘ! Samemu ciężko mi w to uwierzyć!	ID24	dia25	*	N	20	T	*
+Zatem spróbujmy… Nadzieja matką głupich, ale zdecydowanie nie moja.	ID24	dia26	24	T	*	T	*
+Dobra, zrobiłem swoje, to teraz zajmij się szukaniem jakiegoś źródła ognia, o ile spryciarzu nie udało Ci się tego jeszcze zrobić.	ID0	dia27	*	N	17	T	*
+Super, poszukaj jeszcze jakiegoś źródła ognia, skończę rozpakowywać rzeczy i zabierzemy się konkretnie za rozstawianie obozowiska.	ID0	dia28	*	N	*	T	*
+Zaczynam myśleć, że nie miałeś ochoty w ogóle na ten wyjazd… Mogłeś mi to od razu powiedzieć, to bym Cię nie ciągnął…	ID0	dia29	*	N	*	T	*
+Świetnie, chociaż tyle obowiązku ze mnie zejdzie. Dziękuję Ci. Zatem znikam i z po drewno zaraz mykam!	ID0	dia30	*	N	*	T	*
+Zatem rozłóżmy namiot po wojskowemu, dwa szkielety i tarp!	ID3	dia31	*	N	30	T	*
+Namiot w sam raz dla dwojga, dużo miejsca, chociaż wolałbym nie spać przy krawędzi w razie deszczu…	ID4	dia32	*	N	31	T	*
+Tarp na pojedynczym szkielecie, wolałbym nie korzystać z niego we dwójkę ale cóż… Jak mus to mus, przeżyjemy, chociaż chwilowo…	ID5	dia33	*	N	32	T	*
+Może spróbujesz rozstaw namiot, żebyśmy nie spali pod gołym niebem?	ID0	dia34	*	N	*	D	2
+Weki... są! Drewno… jest! Tylko ognia brak…	ID13	dia35	*	N	*	T	*
+Teraz niech się trochę podgotują, przed śmiercią będę miał okazję posmakować domowej kuchni, a nie tak jak zwykle śmieciowego żarcia ojca…	ID13	dia36	*	N	*	T	*
+Świetnie! Udało Ci się rozpalić ognisko, teraz rozstaw namioty, a ja skończę upewniać się że wszystko ze sobą zabraliśmy	ID0	dia37	*	N	*	T	*

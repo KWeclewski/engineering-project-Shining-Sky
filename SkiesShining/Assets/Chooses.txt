@@ -1,0 +1,5 @@
+TekstDecyzji	wymogWsparcia	indeksWplywuNaInne	nastepnaDecyzja
+Lepiej porozmawiam z tatą.	*	2	1
+Czas poszukać drewna na rozpalenie ogniska!	*	3	*
+Nie ma sprawy, zajmę się tym, zostaw to mnie!	*	26	3
+Wolę raczej się powłóczyć	*	23	*
